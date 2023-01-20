@@ -1,1 +1,3 @@
 # first-project
+
+This is only my first project -- title is pending... There are future project plans for this...
